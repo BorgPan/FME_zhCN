@@ -8,5 +8,6 @@ qtres_zh.qm 为界面汉化文件
 guiprompts_en.txt为全局汉化文件，优先级最高
 
 transformers-localized.zh为FME2020-2023转换器汉化文件
+
 fmesuite.fmx为FME2024转换器汉化文件
 
